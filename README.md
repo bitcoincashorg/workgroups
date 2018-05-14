@@ -1,19 +1,9 @@
-# Bitcoin Cash Workgroups
+# Legacy Specification Repository
 
-This repository exists to facilitate the organization and continued operation
-of various topically organized workgroups.  
+This repository has been deprecated.
 
-Suggestions for change may be submitted via a pull request.
+Please submit patches to the combined bitcoincash.org repository:
 
-Please see [workgroup-list](workgroup-list.md) for information about current workgroups.
+https://github.com/bitcoincashorg/bitcoincash.org
 
-# Participating
-
-To participate, first read [code-of-conduct](code-of-conduct.md) and [etiquette](etiquette.md). Then, join the telegram group listed under each workgroup-specific
-document, and submit a pull request with some information about yourself in
-the "Interested Parties" section.
-
-# Current Needs
-
-Currently, each group is in need of a chairperson to further organize and
-coordinate meetings of each workgroup.
+The contents of this repository have been moved to the `workgroups` subdirectory.
